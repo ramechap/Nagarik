@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Nagarik/static/css/main.5cf260a5.css",
+    "main.js": "/Nagarik/static/js/main.e8065cb4.js",
+    "static/js/453.4d7b424a.chunk.js": "/Nagarik/static/js/453.4d7b424a.chunk.js",
+    "static/media/sociale.png": "/Nagarik/static/media/sociale.1d7290244a113121a761.png",
+    "static/media/bajepic.png": "/Nagarik/static/media/bajepic.98d080bade1be6277d4c.png",
+    "static/media/pankta.png": "/Nagarik/static/media/pankta.6b17005db6373a9be5c9.png",
+    "static/media/nagriklogo.png": "/Nagarik/static/media/nagriklogo.7ef9a465bfa99aa5468c.png",
+    "static/media/cittizenholderkti.png": "/Nagarik/static/media/cittizenholderkti.62ccf07fa2e2e3aea918.png",
+    "static/media/nepallogo.png": "/Nagarik/static/media/nepallogo.dc07b2e10558232d276b.png",
+    "static/media/loksewa.png": "/Nagarik/static/media/loksewa.f58f91b441389282f911.png",
+    "static/media/rednepal.png": "/Nagarik/static/media/rednepal.fe48d18233457b6551d6.png",
+    "static/media/iropan.png": "/Nagarik/static/media/iropan.461fe0e58f81403c78c8.png",
+    "static/media/banki.png": "/Nagarik/static/media/banki.011172a110f766c278be.png",
+    "static/media/voterid.jpeg": "/Nagarik/static/media/voterid.ff24b8952e0e4b52a560.jpeg",
+    "static/media/cark.png": "/Nagarik/static/media/cark.4bea21409837bd243db6.png",
+    "static/media/citizenship.png": "/Nagarik/static/media/citizenship.ec93c799069d062727ca.png",
+    "static/media/malpot.png": "/Nagarik/static/media/malpot.4e8099dabf0a4f13f2bb.png",
+    "static/media/userinterface.png": "/Nagarik/static/media/userinterface.7e555b688bb31ca52b28.png",
+    "static/media/policeclear.png": "/Nagarik/static/media/policeclear.74e5edcd8e4e9f9c4747.png",
+    "static/media/vehicletax.png": "/Nagarik/static/media/vehicletax.029a063aa1bc5036d53f.png",
+    "static/media/board.jpg": "/Nagarik/static/media/board.317f365053a999f6db80.jpg",
+    "static/media/check.png": "/Nagarik/static/media/check.a0f339b16f4582830b32.png",
+    "static/media/logo.svg": "/Nagarik/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nagarik/index.html",
+    "main.5cf260a5.css.map": "/Nagarik/static/css/main.5cf260a5.css.map",
+    "main.e8065cb4.js.map": "/Nagarik/static/js/main.e8065cb4.js.map",
+    "453.4d7b424a.chunk.js.map": "/Nagarik/static/js/453.4d7b424a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf260a5.css",
+    "static/js/main.e8065cb4.js"
+  ]
+}
